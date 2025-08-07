@@ -95,7 +95,7 @@ Anomaly detection in task behaviors and transactions.
 Smart recommendations to guide users toward suitable services.
 
 🎨 Frontend Template Integration (JobEntry)
-The platform is visually powered by the JobEntry template by ThemeWagon. This professional, mobile-friendly HTML/CSS theme is repurposed to serve dynamic content such as:
+The platform is visually powered by the JobEntry template by ThemeWagon https://themewagon.github.io/jobentry/  . This professional, mobile-friendly HTML/CSS theme is repurposed to serve dynamic content such as:
 
 Lists of services and tasks
 
